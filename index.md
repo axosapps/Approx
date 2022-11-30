@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Alexandros Karapanos built the Approx app as an Ad Supported app. This SERVICE is provided by Alexandros Karapanos at no cost and is intended for use as is.
+Alexandros Karapanos built the Approx app as an Ad Supported app. This SERVICE is provided by Alexandros Karapanos at no cost and is intended for use as is, with an In App Purchase for an ad free experience
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
